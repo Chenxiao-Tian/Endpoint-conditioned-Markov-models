@@ -1,5 +1,4 @@
 # Endpoint-conditioned-Markov-models
-# Endpoint-conditioned Markov models
 
 ## Project Summary
 
